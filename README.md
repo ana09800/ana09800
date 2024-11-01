@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+meu nome é Ana Flavia Inocencio Terto 
+estou estudando na Alura 
+utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos. 
 <!--
 **ana09800/ana09800** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
